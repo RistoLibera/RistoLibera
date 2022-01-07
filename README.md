@@ -1,11 +1,13 @@
+作品集の説明：
+
 フロントエンドのプロジェクト：
 
-https://github.com/RistoLibera/Responsive_Page
+作品：ルビーチェス（Ruby Chess）: https://qiita.com/qofgxnm7/items/66282e75ff4f9d3f7bfe
 
-https://github.com/RistoLibera/Kreddit
+作品：レスポンシブページ（Responsive Page）: https://qiita.com/qofgxnm7/items/fae8ac0020491343d3a8
 
 バックエンドのプロジェクト：
 
-https://github.com/RistoLibera/Ruby_Chess
+作品：フェイスブックの複製（Facebook Replica）: https://qiita.com/qofgxnm7/items/37c79465ffb737d064aa
 
-https://github.com/RistoLibera/Facebook_Replica
+作品：クレディっト（Kreddit）: https://qiita.com/qofgxnm7/items/c7c64c2208547e0d22c5
