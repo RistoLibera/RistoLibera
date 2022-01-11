@@ -11,3 +11,5 @@
 作品：ルビーチェス（Ruby Chess）: https://qiita.com/qofgxnm7/items/66282e75ff4f9d3f7bfe
 
 作品：フェイスブックの複製（Facebook Replica）: https://qiita.com/qofgxnm7/items/37c79465ffb737d064aa
+
+https://www.springboard.com/learning-paths/web-development-python-django/learn/?referral=https://www.springboard.com/resources/learning-paths/web-development-python-django/#18006-front-end
