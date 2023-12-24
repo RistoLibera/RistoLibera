@@ -11,3 +11,5 @@
 作品：ルビーチェス（Ruby Chess）: https://qiita.com/qofgxnm7/items/66282e75ff4f9d3f7bfe
 
 作品：フェイスブックの複製（Facebook Replica）: https://qiita.com/qofgxnm7/items/37c79465ffb737d064aa
+他のプロジェクト：
+作品：社員検索（Personnel_Search）: https://qiita.com/qofgxnm7/items/ad9a591a95d188ef168a
